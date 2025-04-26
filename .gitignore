@@ -1,0 +1,15 @@
+# Node.js
+/backend/node_modules/
+/backend/npm-debug.log
+
+# Love2D
+**/*.app/
+**/.vs/
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# File temporanei
+*.tmp
+
